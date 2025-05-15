@@ -3,7 +3,7 @@
   "description": "My first blog",
   "author": "Manish Shahi",
   "timezone": "Asia/Kolkata",
-  "dateFormat": "YYYY-MM-DD",
+  "dateFormat": "DD/MM/YYYY",
   "enableComments": true,
   "enableRSS": true,
   "enableSitemap": true
