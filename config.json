@@ -1,12 +1,10 @@
 {
-  "seo": {
-    "title": "sda",
-    "description": "sd",
-    "keywords": "sd",
-    "ogImage": "sasas",
-    "twitterHandle": "sadsasa",
-    "favicon": "https://raw.githubusercontent.com/manishshahi1/fotolog123/main/favicon/stamp.png",
-    "allowIndexing": true,
-    "robotsTxt": "sdasdasdasdads"
-  }
+  "title": "The Rumblings of Words",
+  "description": "My first blog",
+  "author": "Manish Shahi",
+  "timezone": "Asia/Kolkata",
+  "dateFormat": "YYYY-MM-DD",
+  "enableComments": true,
+  "enableRSS": true,
+  "enableSitemap": true
 }
