@@ -6,5 +6,25 @@
   "dateFormat": "DD/MM/YYYY",
   "enableComments": true,
   "enableRSS": true,
-  "enableSitemap": true
+  "enableSitemap": true,
+  "seo": {
+    "title": "fotolog123",
+    "description": "asd",
+    "keywords": "sad",
+    "twitterHandle": "",
+    "facebook": "",
+    "linkedin": "",
+    "pinterest": "",
+    "instagram": "",
+    "youtube": "",
+    "tiktok": "",
+    "threads": "",
+    "whatsapp": "",
+    "telegram": "",
+    "reddit": "",
+    "medium": "",
+    "favicon": "",
+    "allowIndexing": true,
+    "robotsTxt": "asd"
+  }
 }
